@@ -19,3 +19,4 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+/building_a_RESTful_Web_Service/target/
