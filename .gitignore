@@ -21,3 +21,4 @@ nbactions.xml
 nb-configuration.xml
 /building_a_RESTful_Web_Service/target/
 /Scheduling_tasks/target/
+/device_detection/target/
