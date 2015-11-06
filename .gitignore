@@ -24,3 +24,4 @@ nb-configuration.xml
 /device_detection/target/
 /Consuming_a_RESTful_WS/target/
 /Accesing_relational_data_using_JDBC/target/
+/uploading_files/target/
