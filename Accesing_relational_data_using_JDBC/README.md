@@ -21,6 +21,5 @@ You should see the following output:
 2015-11-06 11:55:47.344  INFO 9598 --- [           main] i.s.a.Application                        : Inserting costumer recrod for Josh Long
 2015-11-06 11:55:47.360  INFO 9598 --- [           main] i.s.a.Application                        : Querying for customer records where first_name = 'Josh':
 2015-11-06 11:55:47.377  INFO 9598 --- [           main] i.s.a.Application                        : Customer[id=3, firstName='Josh', lastName='Bloch']
-2015-11-06 11:55:47.377  INFO 9598 --- [           main] i.s.a.Application                        : Customer[id=4, firstName='Josh', lastName='Long']
-```
+2015-11-06 11:55:47.377  INFO 9598 --- [           main] i.s.a.Application                        : Customer[id=4, firstName='Josh', lastName='Long']```
 
