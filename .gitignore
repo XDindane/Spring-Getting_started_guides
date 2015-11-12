@@ -25,3 +25,4 @@ nb-configuration.xml
 /Consuming_a_RESTful_WS/target/
 /Accesing_relational_data_using_JDBC/target/
 /uploading_files/target/
+/Authenticating_a_User_with_LDAP/target/
