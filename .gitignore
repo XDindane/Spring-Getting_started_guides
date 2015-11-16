@@ -27,3 +27,4 @@ nb-configuration.xml
 /uploading_files/target/
 /Authenticating_a_User_with_LDAP/target/
 /Messaging_with_redis/target/
+/Messaging_with_rabbitMQ/target/
