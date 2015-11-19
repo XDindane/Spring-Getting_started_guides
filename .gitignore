@@ -28,3 +28,4 @@ nb-configuration.xml
 /Authenticating_a_User_with_LDAP/target/
 /Messaging_with_redis/target/
 /Messaging_with_rabbitMQ/target/
+/Accessing_data_with_NEO4j/target/
