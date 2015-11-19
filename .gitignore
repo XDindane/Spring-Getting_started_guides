@@ -29,3 +29,4 @@ nb-configuration.xml
 /Messaging_with_redis/target/
 /Messaging_with_rabbitMQ/target/
 /Accessing_data_with_NEO4j/target/
+/Validating_form_input/target/
