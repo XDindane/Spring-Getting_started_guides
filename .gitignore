@@ -30,3 +30,4 @@ nb-configuration.xml
 /Messaging_with_rabbitMQ/target/
 /Accessing_data_with_NEO4j/target/
 /Validating_form_input/target/
+/Creating_batch_service/target/
