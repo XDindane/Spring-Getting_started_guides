@@ -1,0 +1,3 @@
+[submodule "gs-rest-hateoas"]
+	path = gs-rest-hateoas
+	url = https://github.com/spring-guides/gs-rest-hateoas.git
